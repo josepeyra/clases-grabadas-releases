@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera version publicada",
+  "min_runtime": "1.0.1",
+  "code": {
+    "url": "https://github.com/josepeyra/clases-grabadas-releases/releases/download/v1.0.0/clases-grabadas-1.0.0-code.zip",
+    "sha256": "2f85daea022498c23c971e4ac28d3da6cf58dae2b0f42923569770f3542a151f"
+  },
+  "installers": {
+    "windows": "https://github.com/josepeyra/clases-grabadas-releases/releases/tag/v1.0.0"
+  }
+}
